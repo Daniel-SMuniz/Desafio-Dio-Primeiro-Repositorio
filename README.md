@@ -1,4 +1,4 @@
-# Desafio-Dio-Primeiro-Repositorio
+# Desafio-Dio-Primeiro-Repositório
 Projeto-Git/Github-Estudo-Dio
 
 ## Links úteis
